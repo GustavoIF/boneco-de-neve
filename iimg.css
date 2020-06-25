@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(163, 163, 163);
+    
+}
+
+#snowman{
+    margin: 100px;
+}
+
+.snowman{
+    
+}
+
+#snowballface{
+    background-color: snow;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: rgb(240, 240, 240) solid 3px;
+}
+
+    #eye1{
+        background-color: black;
+        border-radius: 50%;
+        width: 15px;
+        height: 15px;
+
+        position: absolute;
+        top: 170px;
+        left: 170px;
+    }
+
+    #eye2{
+        background-color: black;
+        border-radius: 50%;
+        width: 15px;
+        height: 15px;
+
+        position: absolute;
+        top: 170px;
+        left: 230px;
+    }
+
+    #carrotnose{
+        width: px; 
+        height: px;   
+
+        border-top: 20px solid transparent;
+        border-left: 50px solid rgb(202, 136, 12);
+        border-right: 50px solid transparent;
+        border-radius: 10% 0 0 0;
+
+        position: relative;
+        right: 20px;
+        top: 15px;
+    }
+
+#snowball2{
+
+}
